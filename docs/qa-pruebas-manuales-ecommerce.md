@@ -2,8 +2,7 @@
 
 <img width="1365" height="385" alt="image" src="https://github.com/user-attachments/assets/8b458507-1d75-460e-92f5-56e7c4c265fe" />
 
-
-Este proyecto contiene la documentación, los casos de prueba y los reportes relacionados con la Tienda Virtual **Polymer Project**, desarrollados con fines de práctica y demostración de habilidades en **QA Manual**.
+Este proyecto incluye documentación, casos de prueba y reportes de la Tienda Virtual Polymer Project, creados con fines de práctica y demostración de mis habilidades en QA Manual.
 
 ---
 
