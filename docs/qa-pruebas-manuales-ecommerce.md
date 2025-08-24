@@ -13,7 +13,7 @@ Este proyecto incluye documentación, casos de prueba y reportes de la Tienda Vi
 
 - **Documentación de Pruebas**  
   - [Plan de pruebas](https://drive.google.com/file/d/147o71otEvPoCuhKvOM-_GdLUgyBDgOIo/view?usp=sharing)
-  - [Casos de Prueba](ENLACE_NOTION_CASOS)  
+  - [Casos de Prueba](https://sugary-theater-f73.notion.site/Casos-de-Prueba-25323ae68db58018bf1ad24b83cf6ece)  
   - [Hallazgos](ENLACE_NOTION_HALLAZGOS)  
   - [Evidencias](ENLACE_NOTION_EVIDENCIAS)  
   - [Reporte de Pruebas](ENLACE_NOTION_REPORTE)  
