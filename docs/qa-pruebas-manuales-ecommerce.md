@@ -46,7 +46,7 @@ Este proyecto incluye documentación, casos de prueba y reportes de la Tienda Vi
 ## 📩 Contacto
 
 - 📧 **Email:** sgilstefania@gmail.com
-- 💼 **LinkedIn:** [Stefania Gil](https://www.linkedin.com/in/stefania-gil/)  
+- 💼 **LinkedIn:** [Stefania Gil](https://www.linkedin.com/in/stefania-gil-qa/)  
 - <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/efb91027-df4e-45b7-b3a9-5dd30e9ed6b4" /> **GitHub:** [Stefi Gil](https://github.com/StefiGil)
 
 
