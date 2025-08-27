@@ -22,6 +22,20 @@ Cada proyecto incluye su respectiva documentación, organizada de manera clara y
 - **Tienda Virtual (Proyecto de Pruebas Manuales):**  
   Documentación completa de requerimientos, plan de pruebas, casos de prueba, hallazgos y reporte final.  
    [Ver más información sobre el proyecto y documentación](/docs/qa-pruebas-manuales-ecommerce.md)
+
+## Herramientas y Tecnologías
+
+### Herramientas de Automatización
+- **Lenguajes:** Typescript, Python, Java
+- **Frameworks de Automatización de Pruebas:** Playwright, Cypress, Selenium, Gherkin, Cucumber
+- **IDE y Edición de Código:** IntelliJ IDEA, Visual Studio, Visual Studio Code
+- **API Testing:** Postman
+- **Control de Versiones:** Git, GitHub
+
+### Otros Conocimientos Técnicos
+- **Bases de Datos:** SQL
+- **Herramientas de Navegador:** DevTools
+
   
 
 ## 📩 Contacto
