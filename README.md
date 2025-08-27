@@ -10,7 +10,7 @@ Cada proyecto incluye su respectiva documentación, organizada de manera clara y
 ##  Proyectos
 
 
-### 🤖 Pruebas Automatizadas (Playwright con Python) + Documentación
+### 🧪 Pruebas Automatizadas (Playwright con Python) + Documentación
 
 - **Gestor de Ventas (Proyecto de Automatización):**  
   Pruebas automatizadas desarrolladas con Playwright y Python, organizadas a partir de historias de usuario y criterios de aceptación.  
