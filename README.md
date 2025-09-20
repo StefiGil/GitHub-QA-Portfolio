@@ -1,23 +1,26 @@
 # GitHub-QA-Portfolio
 
-![banner](https://github.com/user-attachments/assets/1e478a10-1812-4615-9ad7-1132f17f8097)
+- [Sobre mí](#sobre-mi)
+- [Proyectos](#proyectos)
+  - [Playwright con Typescript + Documentación](#playwright-con-typescript--documentación)
+  - [Pruebas Manuales + Documentación](#pruebas-manuales--documentación)
+- [Herramientas y Tecnologías](#herramientas-y-tecnologías)
+  - [Herramientas de Automatización](#herramientas-de-automatización)
+  - [Otros Conocimientos Técnicos](#otros-conocimientos-técnicos)
+- [📩 Contacto](#-contacto)
 
-Este repositorio reúne proyectos de pruebas de software, tanto manuales como automatizadas, que desarrollé con fines de aprendizaje y práctica profesional.  
 
-Cada proyecto incluye su respectiva documentación, organizada de manera clara y con trazabilidad entre requerimientos, criterios de aceptación y casos de prueba.
+# Sobre mi
 
 #  Proyectos
 
-
-## Pruebas Automatizadas 
-
-### Playwright con Typescript + Documentación
+## Playwright con Typescript
 
 - **Gestor de Ventas (Proyecto de Automatización):**  
   Pruebas automatizadas desarrolladas con Playwright y Python, organizadas a partir de historias de usuario y criterios de aceptación.  
    [Ver más información sobre el proyecto y documentación](/docs/qa-automatizacion-playwright-gestor-ventas.md)
 
-## Pruebas Manuales + Documentación  
+## Pruebas Manuales  
 
 - **Tienda Virtual (Proyecto de Pruebas Manuales):**  
   Documentación completa de requerimientos, plan de pruebas, casos de prueba, hallazgos y reporte final.  
