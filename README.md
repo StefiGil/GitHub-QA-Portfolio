@@ -10,7 +10,7 @@
 
 # Sobre mi
 
-Tester manual y de automatización, con experiencia en Playwright, Selenium y Cypress, especializada en Playwright. Apasionada por la calidad de software y la mejora continua.
+QA Tester con experiencia en pruebas manuales y automatizadas (Playwright, APIs, DB). Me especializo en transformar requerimientos en casos de prueba claros y en diseñar automatizaciones que agreguen valor real a los equipos de desarrollo. Me motiva aprender constantemente y compartir buenas prácticas que hagan del testing una parte estratégica del proceso de software.
 
 
 # Proyectos destacados
