@@ -11,11 +11,12 @@
 # Sobre mi
 
 Mi nombre es Stefi, soy tester de software y me gustaría contarles un poco sobre mí.
+
+Tengo experiencia trabajando en equipos con metodología Scrum, en el marco de prácticas profesionales hasta el momento. También cuento con conocimientos en pruebas de bases de datos y APIs, lo que me permitió tener una visión más integral del proceso de validación de software. En cuanto a automatización, además de tener experiencia con Playwright, también he utilizado Selenium y Cypress, aunque me gustaría especializarme en Playwright debido a sus ventajas.
+
 Hace más de un año comencé en el camino del testing, ya que mientras avanzaba en mi carrera universitaria en investigación empecé a interesarme aún más por el desarrollo de software. Quise profundizar en esta área y me terminó encantando. Siempre me gustó programar, pero no sabía hacia dónde orientarme. Descubrí el mundo de los scripts y, más adelante, cómo crear mi propio framework de pruebas, y ahí fue cuando encontré mi lugar: la calidad de software.
 
 Además de testear, también desarrollé dos aplicaciones en el área de frontend: una es parte de un proyecto personal con un amigo y la otra surgió en una materia académica de 5to año. Para esto utilicé React con Next.js, aunque hoy en día me inclino más hacia la calidad.
-
-Tengo experiencia trabajando en equipos con metodología Scrum, en el marco de prácticas profesionales hasta el momento. También cuento con conocimientos en pruebas de bases de datos y APIs, lo que me permitió tener una visión más integral del proceso de validación de software. En cuanto a automatización, además de tener experiencia con Playwright, también he utilizado Selenium y Cypress, aunque me gustaría especializarme en Playwright debido a sus ventajas.
 
 En este portafolio vas a encontrar algunos de mis proyectos, con sus repositorios y documentación correspondiente. Espero que disfrutes el recorrido, y si tenés alguna duda o consulta no dudes en contactarme. Al final vas a encontrar mis datos de contacto.
 
@@ -28,6 +29,7 @@ Un saludo :)
 <img width="830" height="480" alt="image" src="https://github.com/user-attachments/assets/44032436-821a-4fe6-ab07-7735abaeaf6a" />
 
 - **Descripción:** Automatización de los principales flujos de la tienda online Tools Shop.
+- **Patrones de diseño aplicados:** Page Object Model (POM), Fixtures, Data-driven testing.
 - **Tecnologías:** Playwright, TypeScript, JSON para datos de prueba.
 - **Cobertura:** Autenticación, Gestión de Productos, Carrito, Checkout y Órdenes.
 - **Repositorio:** [tools-shop-e2e-playwright-typescript](https://github.com/StefiGil/tools-shop-e2e-playwright-typescript)
@@ -37,7 +39,6 @@ Un saludo :)
 ![JSON](https://img.shields.io/badge/JSON-21262d?style=flat&logo=json&logoColor=white)
 
 ## 2. Rest Countries API 
-<img width="830" height="480" alt="image" src="https://github.com/user-attachments/assets/e18b8a3c-0eb3-46d0-808a-04bff49b2b06" />
 
 - **Descripción:** Automatización de pruebas de la API de Rest Countries, cubriendo búsquedas por nombre, código y región, validación de esquemas y casos negativos.
 - **Tecnologías:** Playwright, TypeScript, JSON para datos de prueba.
@@ -73,11 +74,6 @@ Un saludo :)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-0078D7?logo=azure-devops&logoColor=white)
 
-### IDE y Edición de Código
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?logo=visual-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
-
 ### Bases de Datos
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
@@ -91,8 +87,11 @@ Un saludo :)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 
+### IDE y Edición de Código
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?logo=visual-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
 
-  
 # Contacto
 
 - **Email:** sgilstefania@gmail.com
