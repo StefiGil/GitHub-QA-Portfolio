@@ -28,6 +28,8 @@ QA Tester con experiencia en pruebas manuales y automatizadas (Playwright, APIs,
 ![JSON](https://img.shields.io/badge/JSON-21262d?style=flat&logo=json&logoColor=white)
 
 ## 2. Rest Countries API 
+<img width="830" height="480" alt="image" src="https://github.com/user-attachments/assets/e18b8a3c-0eb3-46d0-808a-04bff49b2b06" />
+
 - **Descripción:** Automatización de pruebas de la API de Rest Countries, cubriendo búsquedas por nombre, código y región, validación de esquemas y casos negativos.
 - **Tecnologías:** Playwright, TypeScript, JSON para datos de prueba.
 - **Cobertura:** Búsqueda de países por nombre, código y región; validación de esquemas; manejo de casos negativos.
