@@ -16,6 +16,8 @@ QA Tester con experiencia en pruebas manuales y automatizadas (Playwright, APIs,
 # Proyectos destacados
 
 ## 1. Tools Shop
+<img width="830" height="480" alt="image" src="https://github.com/user-attachments/assets/44032436-821a-4fe6-ab07-7735abaeaf6a" />
+
 - **Descripción:** Automatización de los principales flujos de la tienda online Tools Shop.
 - **Tecnologías:** Playwright, TypeScript, JSON para datos de prueba.
 - **Cobertura:** Autenticación, Gestión de Productos, Carrito, Checkout y Órdenes.
