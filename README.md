@@ -10,7 +10,20 @@
 
 # Sobre mi
 
-QA Tester con experiencia en pruebas manuales y automatizadas (Playwright, APIs, DB). Me especializo en transformar requerimientos en casos de prueba claros y en diseñar automatizaciones que agreguen valor real a los equipos de desarrollo. Me motiva aprender constantemente y compartir buenas prácticas que hagan del testing una parte estratégica del proceso de software.
+Mi nombre es Stefi, soy tester de software y me gustaría contarles un poco sobre mí.
+Hace más de un año comencé en el camino del testing, ya que mientras avanzaba en mi carrera universitaria en investigación empecé a interesarme aún más por el desarrollo de software. Quise profundizar en esta área y me terminó encantando.
+
+Siempre me gustó programar, pero no sabía hacia dónde orientarme. Descubrí el mundo de los scripts y, más adelante, cómo crear mi propio framework de pruebas, y ahí fue cuando encontré mi lugar: la calidad de software.
+
+Además de testear, también desarrollé dos aplicaciones en el área de frontend: una es parte de un proyecto personal con un amigo y la otra surgió en una materia académica de 5to año. Para esto utilicé React con Next.js, aunque hoy en día me inclino más hacia la calidad.
+
+Tengo experiencia trabajando en equipos con metodología Scrum, en el marco de prácticas profesionales hasta el momento. También cuento con conocimientos en pruebas de bases de datos y APIs, lo que me permitió tener una visión más integral del proceso de validación de software.
+
+En cuanto a automatización, además de tener experiencia con Playwright, también he utilizado Selenium y Cypress, aunque me gustaría especializarme en Playwright debido a sus ventajas.
+
+En este portafolio vas a encontrar algunos de mis proyectos, con sus repositorios y documentación correspondiente. Espero que disfrutes el recorrido, y si tenés alguna duda o consulta no dudes en contactarme. Al final vas a encontrar mis datos de contacto.
+
+Un saludo :)
 
 
 # Proyectos destacados
