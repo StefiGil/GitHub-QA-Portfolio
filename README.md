@@ -12,7 +12,7 @@
 
 Mi nombre es Stefi, soy tester de software y me gustaría contarles un poco sobre mí.
 
-Tengo experiencia trabajando en equipos con metodología Scrum, en el marco de prácticas profesionales hasta el momento. También cuento con conocimientos en pruebas de bases de datos y APIs, lo que me permitió tener una visión más integral del proceso de validación de software. En cuanto a automatización, además de tener experiencia con Playwright, también he utilizado Selenium y Cypress, aunque me gustaría especializarme en Playwright debido a sus ventajas.
+Tengo experiencia trabajando en equipos bajo la metodología Scrum dentro de prácticas profesionales, donde participé en tareas tanto manuales como automatizadas. En este último aspecto, he utilizado Playwright, Selenium y Cypress, aunque mi objetivo es especializarme en Playwright por las ventajas que ofrece. Además, poseo conocimientos en pruebas de bases de datos y de APIs, lo que me otorga una visión integral del proceso de validación de software.
 
 Hace más de un año comencé en el camino del testing, ya que mientras avanzaba en mi carrera universitaria en investigación empecé a interesarme aún más por el desarrollo de software. Quise profundizar en esta área y me terminó encantando. Siempre me gustó programar, pero no sabía hacia dónde orientarme. Descubrí el mundo de los scripts y, más adelante, cómo crear mi propio framework de pruebas, y ahí fue cuando encontré mi lugar: la calidad de software.
 
