@@ -2,8 +2,9 @@
 
 - [Sobre mí](#sobre-mi)
 - [Proyectos destacados](#proyectos-destacados)
-  - [Tools Shop](#1.tools-shop)
-  - [Rest Countries API](#2.rest-countries-API)
+  - [Tools Shop](##tools-shop)
+  - [Rest Countries API](##rest-countries-API)
+  - [Sales Management DB](##sales-management-db)
 - [Herramientas y Tecnologías](#herramientas-y-tecnologías)
 - [Contacto](#contacto)
 
@@ -48,6 +49,24 @@ Un saludo :)
 ![Node.js](https://img.shields.io/badge/Node.js-21262d?style=flat&logo=node.js&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-21262d?style=flat&logo=playwright&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-21262d?style=flat&logo=json&logoColor=white)
+
+## 3. Sales Management DB
+
+- **Descripción:** Suite de pruebas automatizadas sobre la base de datos **ClassicModels**, un sistema de gestión de ventas. Se validan esquemas, stored procedures, funciones, triggers, transacciones y reglas de integridad de datos.
+- **Tecnologías:** Java, TestNG, MySQL, JDBC.
+- **Cobertura:**
+    *   **Schema Testing:** validación de tablas, columnas y tipos de datos.
+    *   **Stored Procedures:** verificación de existencia y ejecución con parámetros.
+    *   **Functions:** pruebas unitarias de funciones almacenadas.
+    *   **Triggers:** validación de triggers `UPDATE` y `DELETE`.
+    *   **CRUD & Data Mapping:** validación de inserciones, actualizaciones y relaciones entre tablas.
+    *   **ACID Properties:** pruebas de atomicidad, consistencia, aislamiento y durabilidad.
+    *   **Data Integrity:** validación de constraints y llaves foráneas.
+- **Repositorio:** [sales-system-java-testng-automation](https://github.com/StefiGil/sales-system-java-testng-automation)
+- ![Java](https://img.shields.io/badge/Java-21262d?style=flat&logo=openjdk&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-21262d?style=flat&logo=testng&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-21262d?style=flat&logo=mysql&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-21262d?style=flat&logo=databricks&logoColor=white)
 
 # Herramientas y Tecnologías
 
