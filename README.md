@@ -2,9 +2,9 @@
 
 - [Sobre mí](#sobre-mi)
 - [Proyectos destacados](#proyectos-destacados)
-  - [Tools Shop](##tools-shop)
-  - [Rest Countries API](##rest-countries-API)
-  - [Sales Management DB](##sales-management-db)
+  - [Tools Shop](#tools-shop)
+  - [Rest Countries API](#rest-countries-API)
+  - [Sales Management DB](#sales-management-db)
 - [Herramientas y Tecnologías](#herramientas-y-tecnologías)
 - [Contacto](#contacto)
 
