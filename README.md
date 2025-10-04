@@ -13,11 +13,11 @@
 
 Mi nombre es Stefi, soy tester de software y me gustaría contarles un poco sobre mí.
 
-Tengo experiencia trabajando en equipos con metodología Scrum, en el marco de prácticas profesionales hasta el momento. En cuanto a automatización, además de tener experiencia con Playwright, también he utilizado Selenium y Cypress, aunque me gustaría especializarme en Playwright debido a sus ventajas. También cuento con conocimientos en pruebas de bases de datos y APIs, lo que me permitió tener una visión más integral del proceso de validación de software.
+Tengo experiencia trabajando en equipos con metodología Scrum, en el marco de prácticas profesionales hasta el momento. En cuanto a automatización, además de tener experiencia realizando pruebas E2E con Playwright, también he utilizado Selenium y Cypress, aunque me gustaría especializarme en Playwright debido a sus ventajas. También cuento con conocimientos en pruebas de bases de datos y APIs; he trabajado en pruebas automatizadas de bases de datos con MySQL y Java con TestNG, además de validar APIs mediante Postman, lo que me permitió tener una visión más integral del proceso de validación de software.
 
-Hace más de un año comencé en el camino del testing, ya que mientras avanzaba en mi carrera universitaria en investigación empecé a interesarme aún más por el desarrollo de software. Quise profundizar en esta área y me terminó encantando. Siempre me gustó programar, pero no sabía hacia dónde orientarme. Descubrí el mundo de los scripts y, más adelante, cómo crear mi propio framework de pruebas, y ahí fue cuando encontré mi lugar: la calidad de software.
+Hace más de un año comencé en el camino del testing, ya que mientras avanzaba en mi carrera universitaria en investigación empecé a interesarme aún más por el desarrollo de software. Quise profundizar en esta área y me terminó encantando. Siempre me gustó programar, pero no sabía hacia dónde orientarme. Descubrí el mundo de los scripts y, más adelante, cómo crear mi propio framework de pruebas, y ahí fue cuando encontré mi lugar, la calidad de software.
 
-Además de testear, también desarrollé dos aplicaciones en el área de frontend: una es parte de un proyecto personal con un amigo y la otra surgió en una materia académica de 5to año. Para esto utilicé React con Next.js, aunque hoy en día me inclino más hacia la calidad.
+Además de testear, también desarrollé dos aplicaciones en el área de frontend, una es parte de un proyecto personal con un amigo y la otra es la creacion de una app completa que surgió en una materia académica de 5to año. Para esto utilicé React con Next.js, aunque hoy en día me inclino más hacia la calidad.
 
 En este portafolio vas a encontrar algunos de mis proyectos, con sus repositorios y documentación correspondiente. Espero que disfrutes el recorrido, y si tenés alguna duda o consulta no dudes en contactarme. Al final vas a encontrar mis datos de contacto.
 
